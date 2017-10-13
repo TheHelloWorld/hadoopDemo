@@ -1,4 +1,4 @@
-package com.lzk.hadoop.test;
+package com.lzk.hadoop.test.reducer;
 
 import org.apache.hadoop.io.LongWritable;
 import org.apache.hadoop.io.Text;
